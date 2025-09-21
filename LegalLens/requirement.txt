@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+pdfplumber
+python-docx
+tqdm
+regex
+python-dotenv
+pytesseract
+pillow
